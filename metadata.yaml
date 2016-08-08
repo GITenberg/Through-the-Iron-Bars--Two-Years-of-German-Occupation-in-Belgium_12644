@@ -1,0 +1,37 @@
+_repo: Through-the-Iron-Bars--Two-Years-of-German-Occupation-in-Belgium_12644
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Raemaekers, Louis
+    birthdate: 1869
+    deathdate: 1956
+    gutenberg_agent_id: '4533'
+    url: http://www.gutenberg.org/2009/agents/4533
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Raemaekers
+creator:
+  author:
+    agent_name: Cammaerts, Emile
+    birthdate: 1878
+    deathdate: 1953
+    gutenberg_agent_id: '4474'
+    url: http://www.gutenberg.org/2009/agents/4474
+description: ''
+gutenberg_bookshelf:
+- Germany
+- World War I
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12644'
+  lccn: '17022575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Belgium -- History -- German occupation, 1914-1918'
+- !lcsh 'World War, 1914-1918 -- Atrocities'
+- !lcc 'D501'
+- GITenberg
+title: 'Through the Iron Bars: Two Years of German Occupation in Belgium'
+url: http://www.gutenberg.org/ebooks/12644
