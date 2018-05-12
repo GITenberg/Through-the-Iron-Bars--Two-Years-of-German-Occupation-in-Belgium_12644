@@ -1,5 +1,5 @@
 _repo: Through-the-Iron-Bars--Two-Years-of-German-Occupation-in-Belgium_12644
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Raemaekers, Louis
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4533'
     url: http://www.gutenberg.org/2009/agents/4533
     wikipedia: http://en.wikipedia.org/wiki/Louis_Raemaekers
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cammaerts, Emile
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '4474'
     url: http://www.gutenberg.org/2009/agents/4474
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12644#Through-the-Iron-Bars--Two-Years-of-German-Occupation-in-Belgium
 gutenberg_bookshelf:
 - Germany
 - World War I
